@@ -1,0 +1,16 @@
+SP => S00E00
+花絮 => S00E00
+特典 => S00E00
+Interview => S00E00
+访谈 => S00E00
+预告 => S00E00
+Trailer => S00E00
+Teaser => S00E00
+PV => S00E00
+CM => S00E00
+Behind the Scenes => S00E00
+Making of => S00E00
+Featurette => S00E00
+Extra => S00E00
+NC OP => S00E00
+NC ED => S00E00
